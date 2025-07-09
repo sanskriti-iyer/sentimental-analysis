@@ -34,7 +34,7 @@ __Evaluation__
 - Compared model performance using accuracy and classification reports
 - Tested generalization ability on unseen data
 
-#Technology Used
+# Technology Used
 - Pandas – for loading and manipulating tweet data
 - NumPy – for numerical operations and array handling
 - NLTK (Natural Language Toolkit) – for tokenization, stopword removal, POS tagging, and lemmatization
